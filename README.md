@@ -10,7 +10,9 @@ selenium
 pytest-html 
 
 **pip install pytest** or **pip install -U pytest**
+
 **pip install selenium**
+
 **pip install pytest-html**
 
 
