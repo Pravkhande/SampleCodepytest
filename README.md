@@ -1,7 +1,4 @@
-
-**Do not** commit this to version control.
-
-See [the docs](https://docs.pytest.org/en/stable/cache.html) for more information.
+#Pytest simple Framework
 
 Pre-requistes:
 Install below plugins using following commands:
