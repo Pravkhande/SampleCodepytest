@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="10" time="4.555" timestamp="2021-01-15T14:34:10.754788" hostname="C02XH0MVJG5M"><testcase classname="tests.test_1" name="test_file1_method1" time="0.001"><failure message="AssertionError: test failed&#10;assert 5 == 6">def test_file1_method1():
-    	x=5
-    	y=6
-    	assert x+1==y,"test passed"
-&gt;   	assert x==y,"test failed"
-E    AssertionError: test failed
-E    assert 5 == 6
-
-tests/test_1.py:6: AssertionError</failure></testcase><testcase classname="tests.test_1" name="test_file1_method2" time="0.000" /><testcase classname="tests.test_math" name="test_addition" time="0.001" /><testcase classname="tests.test_math" name="test_subtraction" time="0.000" /><testcase classname="tests.test_math_parameterized" name="test_multiplication[0-5-0]" time="0.001" /><testcase classname="tests.test_math_parameterized" name="test_multiplication[1-5-5]" time="0.001" /><testcase classname="tests.test_math_parameterized" name="test_multiplication[2-5-10]" time="0.001" /><testcase classname="tests.test_math_parameterized" name="test_multiplication[-3-5--15]" time="0.001" /><testcase classname="tests.test_math_parameterized" name="test_multiplication[-4--5-20]" time="0.001" /><testcase classname="tests.test_web" name="test_basic_duckduckgo_search" time="4.437" /></testsuite></testsuites>
